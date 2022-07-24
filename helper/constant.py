@@ -1,0 +1,1 @@
+cars_data = pd.read_csv('data/autos.csv', encoding='latin-1')
